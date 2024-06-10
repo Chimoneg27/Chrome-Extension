@@ -21,6 +21,11 @@ button {
     font-weight: bold;
 }
 
+#delete-btn {
+    color: #5f9341;
+    background-color: white;
+}
+
 ul {
     margin-top: 20px;
     list-style: none;
